@@ -1,6 +1,4 @@
-# RII-FF16-ReskinClivesAppearance
-
-Mod for Final Fantasy XVI on PC using Reloaded II
+# RII-FF16-ReskinClive
 
 Published on Nexus Mods
 
